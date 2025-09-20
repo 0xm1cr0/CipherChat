@@ -1,4 +1,4 @@
-# SecureTalk Edu
+# CipherChat
 
 **An Interactive Educational Platform for Visualizing Secure Communication & Encryption**
 
@@ -22,7 +22,7 @@ The main goal of this project is to **make cybersecurity concepts easy and fun t
 
 ### For Everyone (Using the Live Demo)
 
-1.  **Open the Live Demo:** Go to the live website: `https://your-deployment-link.vercel.app`
+1.  **Downlaod the software
 2.  **Open Two Tabs:** Open the same website in **two different browser tabs** (or on your phone and computer).
 3.  **Join the Chat:**
     -   On Tab 1: Enter a username (e.g., `Alice`) and the password `password123`. Click **"Join Chat"**.
