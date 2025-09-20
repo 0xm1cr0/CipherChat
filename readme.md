@@ -37,8 +37,8 @@ The main goal of this project is to **make cybersecurity concepts easy and fun t
 
 1.  **Download the Code:**
     ```bash
-    git clone https://github.com/your-username/securetalk-edu.git
-    cd securetalk-edu
+    git clone https://github.com/0xm1cr0/CipherChat.git
+    cd CipherChat
     ```
 
 2.  **Install Dependencies:**
