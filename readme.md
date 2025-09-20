@@ -20,19 +20,6 @@ The main goal of this project is to **make cybersecurity concepts easy and fun t
 
 ## 🚀 How to Use This Project (Step-by-Step)
 
-### For Everyone (Using the Live Demo)
-
-1.  **Downlaod the software
-2.  **Open Two Tabs:** Open the same website in **two different browser tabs** (or on your phone and computer).
-3.  **Join the Chat:**
-    -   On Tab 1: Enter a username (e.g., `Alice`) and the password `password123`. Click **"Join Chat"**.
-    -   On Tab 2: Enter a different username (e.g., `Bob`) and the same password `password123`. Click **"Join Chat"**.
-4.  **Watch the Handshake:** See the animation that shows the secure connection being established between Alice and Bob.
-5.  **Start Chatting:** Type a message in one tab and click **"Send"**. See it appear instantly in the other tab!
-6.  **Toggle Theme:** Click the **sun/moon icon** in the top right to switch between light and dark mode.
-
-### For Developers (Running on Your Own Computer)
-
 **Prerequisites:** Make sure you have **Node.js** (version 18 or higher) installed on your computer.
 
 1.  **Download the Code:**
@@ -54,6 +41,19 @@ The main goal of this project is to **make cybersecurity concepts easy and fun t
     *(You should see a message: `Server running on port 3000`)*
 
 4.  **Open Your Browser:** Go to `http://localhost:3000` and follow the steps from the "For Everyone" section above.
+
+
+2.  **Open Two Tabs:** Open the same website in **two different browser tabs** (or on your phone and computer).
+3.  **Join the Chat:**
+    -   On Tab 1: Enter a username (e.g., `Alice`) and the password `password123`. Click **"Join Chat"**.
+    -   On Tab 2: Enter a different username (e.g., `Bob`) and the same password `password123`. Click **"Join Chat"**.
+4.  **Watch the Handshake:** See the animation that shows the secure connection being established between Alice and Bob.
+5.  **Start Chatting:** Type a message in one tab and click **"Send"**. See it appear instantly in the other tab!
+6.  **Toggle Theme:** Click the **sun/moon icon** in the top right to switch between light and dark mode.
+
+### For Developers (Running on Your Own Computer)
+
+
 
 ## 🏗️ How It Works (Technical Overview)
 
